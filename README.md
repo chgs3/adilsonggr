@@ -10,4 +10,5 @@ Instale o [Node LTS](https://nodejs.org/pt), ideal que sempre se mantenha atuali
 Após o node ter sido instalado, rode os seguintes comandos no diretório base do projeto (depois de ter feito a integração com o seu servidor): 
 
 npm install
+
 node index.js
