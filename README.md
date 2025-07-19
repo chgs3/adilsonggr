@@ -5,4 +5,4 @@ Para a execução em um server, é necessário o token. Estará abstraído por m
 
 ## Instruções
 Para rodar, é necessário que algumas dependências sejam instaladas. 
-Instale o <a href=“https://nodejs.org/pt/“>Node LTS</a>, ideal que sempre se mantenha atualizada a versão, bem como das dependências.
+Instale o [Node LTS](https://nodejs.org/pt), ideal que sempre se mantenha atualizada a versão, bem como das dependências.
